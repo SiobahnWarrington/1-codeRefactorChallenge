@@ -7,6 +7,10 @@ How I understand the challenge in my own words this week. The benfit of refactor
 - make the code easier to read when modifying in the future or for others to see clearly when sharing 
 
 ASSIGNMENT BELOW 
+
+
+---------------------------------------------------------------------------------------
+
 # 01 HTML, CSS, and Git: Code Refactor
 
 ## Challenges in This Course
